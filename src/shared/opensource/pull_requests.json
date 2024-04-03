@@ -96,7 +96,7 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0",
       "title": "Setting up complete workflow for project",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/4",
+      "url": "https://github.com/ashutosh1919/Portfolio/pull/4",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
@@ -109,8 +109,8 @@
       "additions": 38,
       "deletions": 47,
       "baseRepository": {
-        "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "name": "Portfolio",
+        "url": "https://github.com/ashutosh1919/Portfolio",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
@@ -121,7 +121,7 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0",
       "title": "Test PR to setup workflow",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/3",
+      "url": "https://github.com/ashutosh1919/Portfolio/pull/3",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
@@ -134,8 +134,8 @@
       "additions": 32,
       "deletions": 0,
       "baseRepository": {
-        "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "name": "Portfolio",
+        "url": "https://github.com/ashutosh1919/Portfolio",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
