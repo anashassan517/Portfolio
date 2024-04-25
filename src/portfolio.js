@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1N3UqwDSOQfm_hlWB_76OcavJFKBssb69/view?usp=drive_link",
+    "https://drive.google.com/drive/folders/1N2iTsKHL3Fu735NrlzIvS4G2wu4xraZ9",
   portfolio_repository: "https://github.com/anashassan517",
   githubProfile: "https://github.com/anashassan517",
 };
